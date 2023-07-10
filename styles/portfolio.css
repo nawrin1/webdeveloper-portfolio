@@ -173,3 +173,27 @@ main section{
     text-align: center;
     margin-top:50px;
 }
+footer{
+    display:flex;
+    background: #FFF8F3;
+    padding:130px 200px;
+    margin-top:100px;
+    gap:117px;
+}
+.footer-column{
+    width:50%;
+}
+.contract input[type="text"],.contract input[type="email"],textarea{
+    display:block;
+    margin-bottom:25px;
+    padding: 18px 30px;
+    color:#757575;
+    border-radius: 5px;
+    background: #FFF;
+    border: 0;
+    width:100%;
+
+}
+.social-links{
+    margin-right: 25px;
+}
